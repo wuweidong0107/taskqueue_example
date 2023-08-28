@@ -1,3 +1,4 @@
 taskqueue_example
 *.d
 *.o
+/.vscode-ctags
